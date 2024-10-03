@@ -1,2 +1,2 @@
-# Python_Listas
+# LIP
 Exercícios de Python
