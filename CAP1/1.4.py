@@ -1,5 +1,6 @@
 # Exercício 4 do Capítulo 1 das Listas de Linguagem de Programação - ECT3201
 
+# Média simples
 def main():
     x = float(input(""))
     y = float(input(""))
