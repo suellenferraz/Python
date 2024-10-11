@@ -1,2 +1,2 @@
-# LIP
+# Python
 Exercícios de Python
