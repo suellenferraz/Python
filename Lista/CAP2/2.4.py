@@ -1,4 +1,5 @@
 # Exercício 4 do Capítulo 2 das Listas de Linguagem de Programação - ECT3201
+"""Faça um programa que calcule o Índice de Massa Corporal (IMC) de uma pessoa. O IMC é calculado dividindo-se o peso da pessoa pela sua altura ao quadrado. O IMC é uma medida da relação entre o peso e a altura de uma pessoa. O programa deve imprimir o IMC da pessoa."""
 
 def main():
     peso = float(input(""))

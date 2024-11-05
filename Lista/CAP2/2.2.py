@@ -1,4 +1,5 @@
 # Exercício 2 do Capítulo 2 das Listas de Linguagem de Programação - ECT3201
+"""Escreva um programa que solicite ao usuário que insira uma palavra ou frase. Em seguida, o programa deve imprimir o comprimento da string, a primeira letra da string, a última letra da string e a string invertida."""
 
 def main():
     texto = input("") 

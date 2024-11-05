@@ -1,4 +1,9 @@
 # Exercício 12 do Capítulo 2 das Listas de Linguagem de Programação - ECT3201
+"""Escreva um programa para coletar informações de um aluno. Utilizando um dicionário denominado “aluno”, solicite ao usuário as seguintes informações:
+Nome do aluno.
+Matrícula do aluno.
+Três notas do aluno.
+Posteriormente, exiba na tela os dados registrados, incluindo o nome, matrícula e a média das três notas do aluno. Utilize somente os métodos especiais dos dicionários para inserir e acessar os dados."""
 
 def main():
     aluno = {} # Dicionário

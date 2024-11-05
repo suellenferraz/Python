@@ -1,6 +1,6 @@
 # Exercício 7 do Capítulo 2 das Listas de Linguagem de Programação - ECT3201
+"""Crie um dicionário chamado contato. Peça ao usuário para fornecer os dados para as chaves “nome”, “telefone” e “endereço”. Em seguida, imprima o conteúdo do dicionário."""
 
-# Exercício sobre dicionário
 def main():
     contato = {} # Dicionário vazio
     

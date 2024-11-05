@@ -1,4 +1,5 @@
 # Exercício 3 do Capítulo 2 das Listas de Linguagem de Programação - ECT3201
+"""Escrever um programa que compare duas strings dadas na entrada com valores booleanos (“True” ou “False”) e imprima na tela se as strings são iguais ou diferentes, ignorando a capitalização."""
 
 def main():
     x = input("").strip().lower() # O strip foi usado remove espaços em branco no início e no final da string. 

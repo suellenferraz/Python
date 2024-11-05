@@ -1,4 +1,11 @@
 # Exercício 5 do Capítulo 3 das Listas de Linguagem de Programação - ECT3201
+"""Utilizando tuplas, você deve receber as coordenadas de um retângulo no plano cartesiano, onde (x_min, y_min) representa o canto inferior esquerdo e (x_max, y_max) representa o canto superior direito. Além disso, você tem um ponto representado por um par de coordenadas (x, y).
+Sua tarefa é escrever um programa que determine se o ponto está dentro, tocando na borda ou fora do retângulo. O programa deve imprimir uma mensagem na saída padrão indicando o resultado da verificação.
+Veja o exemplo didático do desenho ASCII para o Teste 1:
+O + representa os cantos do retângulo.
+O . representa o ponto.
+As coordenadas do retângulo são (x_min, y_min) = (1,1) e (x_max, y_max) = (6,6).
+As coordenadas do ponto são (x, y) = (4,4)."""
 
 def main():
     # Recebe as coordenadas do retângulo e do ponto como entrada com o .split()

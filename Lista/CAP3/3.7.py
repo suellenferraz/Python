@@ -1,4 +1,8 @@
 # Exercício 7 do Capítulo 3 das Listas de Linguagem de Programação - ECT3201
+"""Você é um biólogo trabalhando em um parque natural e está encarregado de monitorar três espécies de aves migratórias. Cada espécie tem um conjunto de ilhas preferidas para nidificação durante a temporada de migração. As preferências das espécies são as seguintes:
+Espécie 1: Prefere as ilhas com IDs de 1 a 10.
+Espécie 2: Prefere as ilhas com IDs de 6 a 17.
+Algumas ilhas são compartilhadas entre as espécies, o que pode levar à competição por recursos. Seu trabalho é identificar quais ilhas são compartilhadas para implementar medidas de conservação. Dessa forma, dada uma entrada do usuário correspondente ao ID de uma das ilhas, verifique se essa ilha específica é uma área de competição ou se é exclusiva de uma das espécies."""
 
 def main():
     # Utilizei o set e o range para facilitar o conjunto das ilhas

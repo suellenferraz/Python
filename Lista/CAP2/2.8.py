@@ -1,4 +1,5 @@
 # Exercício 8 do Capítulo 2 das Listas de Linguagem de Programação - ECT3201
+"""Desenvolva um programa que peça ao usuário que insira cinco números inteiros distintos. Em seguida, crie um conjunto chamado “numeros” inicialmente vazio usando a função set(), e armazene os números fornecidos pelo usuário no conjunto utilizando o método .add(). Por fim, imprima o conjunto completo na saída."""
 
 def main():
     

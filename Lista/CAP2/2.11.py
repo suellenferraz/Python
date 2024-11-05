@@ -1,4 +1,5 @@
 # Exercício 11 do Capítulo 2 das Listas de Linguagem de Programação - ECT3201
+"""Você deve criar um programa que verifica se os números em uma lista são pares ou ímpares. A lista possui tamanho 5 e será fornecida pelo usuário. Cada número na lista deve ser avaliado individualmente, sem o uso de estruturas de repetição (como loops). O programa deve exibir na tela se cada número é par ou ímpar."""
 
 def main():
     # Ler os valores de uma lista de tamanho 5, conforme enunciado

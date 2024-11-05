@@ -1,4 +1,6 @@
 # Exercício 6 do Capítulo 3 das Listas de Linguagem de Programação - ECT3201
+"""Desenvolva um sistema de autenticação que utilize um dicionário chamado usuarios_senhas para armazenar os nomes e as senhas de dois usuários. O programa deve solicitar que o usuário insira seu nome de usuário e senha. Em seguida, o sistema deve verificar se as credenciais inseridas correspondem às armazenadas no dicionário. Se as credenciais estiverem corretas, o programa deve exibir uma mensagem de “Login bem-sucedido! Bem-vindo, usuário.”. Caso contrário, deve informar ao usuário “Acesso negado. Credenciais inválidas.”.
+Obs: Serão armazenados apenas três usuários."""
 
 def main():
     usuarios_senhas = { #Dicionário com as entradas de autenticação

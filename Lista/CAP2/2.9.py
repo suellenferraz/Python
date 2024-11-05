@@ -1,4 +1,8 @@
 # Exercício 9 do Capítulo 2 das Listas de Linguagem de Programação - ECT3201
+"""Faça um programa que solicite ao usuário que insira três diferentes números inteiros para cada conjunto. Os conjuntos, “conjunto_a” e “conjunto_b”, devem ser criados com os números fornecidos pelo usuário utilizando o método .add(). Em seguida, realize as seguintes operações e imprima os resultados:
+União: Combinar os elementos únicos de ambos os conjuntos.
+Interseção: Encontrar os elementos que estão presentes em ambos os conjuntos.
+Diferença: Identificar os elementos que estão em “conjunto_a” mas não em “conjunto_b”."""
 
 def main():
     conjunto_a = set() # Conjunto Vazio
