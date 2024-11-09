@@ -2,7 +2,7 @@
 
 def main():
     # Recebendo as notas
-    nota1, nota2, nota3 = map(float, input("Digite as notas: ").split())
+    nota1, nota2, nota3 = map(float, input("Digite as notas: ").split()) # map() converte as strings para números reais
     # Calculando a média
     media = (nota1 + nota2 + nota3) / 3
     # Verificando se a média é maior ou igual a 7

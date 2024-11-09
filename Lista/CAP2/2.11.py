@@ -9,7 +9,7 @@ def main():
     numero4 = int(input(""))
     numero5 = int(input("")) 
     # Preferi utilizar um por um, usando if e else, devido que não podia usar loop.
-    if numero1 % 2 == 0:
+    if numero1 % 2 == 0: # Verifica se o número é par ou ímp, se o resto da divisão por 2 for 0, é par.
         print(f"O número {numero1} é par.")
     else:
         print(f"O número {numero1} é ímpar.")

@@ -7,7 +7,7 @@ print(5 in [1, 2, 3, 4, 5])  # True
 print(6 in [1, 2, 3, 4, 5])  # False
 
 # Verifica se o valor 'a' está presente na string 'Python'.
-print('a' in 'Python')  # True
+print('a' in 'Python')  # False
 # Verifica se o valor 'z' está presente na string 'Python'.
 print('z' in 'Python')  # False
 
@@ -22,6 +22,6 @@ print(5 not in [1, 2, 3, 4, 5])  # False
 print(6 not in [1, 2, 3, 4, 5])  # True
 
 # Verifica se o valor 'a' não está presente na string 'Python'.
-print('a' not in 'Python')  # False
+print('a' not in 'Python')  # True
 # Verifica se o valor 'z' não está presente na string 'Python'.
 print('z' not in 'Python')  # True

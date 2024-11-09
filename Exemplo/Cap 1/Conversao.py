@@ -1,10 +1,12 @@
 # Conversão de tipos de dados em Python e Utilização do len() para obter o tamanho de uma string.
 
-# String para Inteiro e Float
+# String para Inteiro
 a = "10"
+print(int(a)) # Conversão de String para Inteiro
+
+# String para Float
 b = "20.5"
-print(int(a) + int(b)) # Conversão de String para Inteiro
-print(float(a) + float(b)) # Conversão de String para Float
+print(float(b)) # Conversão de String para Float
 
 # Inteiro e Float para String
 a = 10

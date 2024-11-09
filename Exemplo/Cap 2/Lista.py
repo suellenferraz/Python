@@ -157,5 +157,3 @@ e.remove(1)
 
 # Imprimindo a lista
 print(e) # []
-
-# 
