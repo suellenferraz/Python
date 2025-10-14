@@ -1,5 +1,7 @@
 # 🐍 Python 
 Este repositório foi criado para ajudar você a entender alguns exercícios da disciplina de **Linguagem de Programação - ECT3201**, ministrada pelo *Professor Helton Maia*. Além disso, você pode utilizá-lo como uma ferramenta adicional para aprofundar seus estudos. Sinta-se à vontade para explorar e aplicar os conceitos abordados!
+#
+Como complemento, este repositório também inclui exercícios da disciplina de **Pensamento Computacional**, para ampliar ainda mais seu aprendizado.
 # 🔗 Files
 Para mais recursos, você pode acessar: 
 - [E-book](https://heltonmaia.com/pythonbook/intro.html) 
